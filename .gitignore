@@ -1,0 +1,7 @@
+### UnrealEngine4.gitignore
+
+
+/*/Binaries/**
+/*/DerivedDataCache/**
+/*/Intermediate/**
+/*/Saved/**
